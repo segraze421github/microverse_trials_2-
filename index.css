@@ -1,0 +1,22 @@
+body{
+    background-color:aquamarine ;
+    margin: 20px,20px,20px,20px;
+    padding: 20px,10px,10px,10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main{
+   color: black;
+   font-size: large;
+   font-style: italic;
+}
+h1{
+ color: blue;
+ font-size: xx-large;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: 300;
+}
+ul{
+ justify-content: center;
+ justify-items: auto;
+ align-items: center;
+}
